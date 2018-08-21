@@ -12,3 +12,20 @@ We are an independent laboratory. Some of us also work in academic institutions 
 toolbox: Here you will find some useful tools we use, and some tools we find interesting in order to improve our scientific practices. We attach importance to free and open tools/content in order to increase transparency, sharing, reproducibility, and replicability of scientific data.
 
 ppl: He also has his own youtube channel, focusing on the popularisation of psychology.
+
+
+
+**Research interests**  
+cognitive neuroscience &#215; visual cognition &#215; binocular vision &#215; primates &#215; ecology and evolution &#215; ethics &#215; epistemology  
+<br/>
+**Research projects**  
+<a href="/projects#moral" target="_blank">Moral extremism and speciesism</a>  
+<a href="/projects#psychology" target="_blank">Psychology. Natural &or; Social &or; Biological &or; Health &or; Human &or; Animal Science</a>  
+<br/>
+**Geographical Location**   
+Toulouse, France 
+<br/>
+<br/>
+<a href="https://yseulthb.github.io/pdf/YHejjaBrichard_CVacademic.pdf" target="_blank"><b>CV</b></a>  
+</div>
+<br/>
