@@ -1,6 +1,10 @@
 ### Welcome! 👋
 
-I am a postdoc at the [Department of Biological Sciences](https://biology.umbc.edu/) of the University of Maryland, Baltimore County (UMBC), in Baltimore, MD (USA). There I work on sexual signal design in the darter fish ([*Etheosomatidae*](https://en.wikipedia.org/wiki/Etheostomatinae)) with [Tamra Mendelson](https://www.mendelsonlab.net/) in collaboration with [Julien Renoult](https://www.eevcom-montpellier.com/julien-renoult.html) in Montpellier, France. We use artificial neural networks to create novel stimuli that mimic natural statistics to understand better the evolution of pattern preferences and sexual signal design ([processing bias theory and efficient coding framework](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2019.0165)). Besides this project, I also explore the link between visual attractiveness and camouflage patterns in humans.
+I am a postdoc at the [Department of Biological Sciences](https://biology.umbc.edu/) of the University of Maryland, Baltimore County (UMBC), in Baltimore, MD (USA). 
+
+I work on sexual signal design in the darter fish ([*Etheosomatidae*](https://en.wikipedia.org/wiki/Etheostomatinae)) with [Tamra Mendelson](https://www.mendelsonlab.net/) in collaboration with [Julien Renoult](https://www.eevcom-montpellier.com/julien-renoult.html) in Montpellier, France. 
+We use artificial neural networks to create novel stimuli that mimic natural statistics to understand better the evolution of pattern preferences and sexual signal design ([processing bias theory and efficient coding framework](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2019.0165)). Besides this project, I also explore the link between visual attractiveness and camouflage patterns in humans.
+I also have some small projects with students and am always open for collaborations or else. Feel free to reach out! 
 
 You can find more information on my [personal wesbite](https://yseulthb.github.io/).
 
