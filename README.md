@@ -7,7 +7,7 @@ We use artificial neural networks to create novel stimuli that mimic natural sta
 
 Besides this project, I explore the link between visual attractiveness and camouflage patterns in humans.
 
-I also have several small projects with students and am always open for collaborations or else. Feel free to reach out! 
+I also have several small projects with students and am always open for collaborations, discussions, or else. Feel free to [reach out](yseulthb@gmail.com)! 
 
 You can find more information on my [personal wesbite](https://yseulthb.github.io/).
 
