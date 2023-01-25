@@ -3,11 +3,12 @@
 I am a postdoc at the [Department of Biological Sciences](https://biology.umbc.edu/) of the University of Maryland, Baltimore County (UMBC), in Baltimore, MD (USA). 
 
 I work on sexual signal design in the darter fish ([*Etheosomatidae*](https://en.wikipedia.org/wiki/Etheostomatinae)) with [Tamra Mendelson](https://www.mendelsonlab.net/) in collaboration with [Julien Renoult](https://www.eevcom-montpellier.com/julien-renoult.html) in Montpellier, France. 
-We use artificial neural networks to create novel stimuli that mimic natural statistics to understand better the evolution of pattern preferences and sexual signal design ([processing bias theory and efficient coding framework](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2019.0165)). 
+We use artificial neural networks to create novel stimuli that mimic natural statistics to understand better the evolution of pattern preferences and sexual signal design ([processing bias theory and efficient coding framework](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2019.0165)). <br>
+Besides this project, I explore the link between visual attractiveness and camouflage patterns in humans and I also have several small research projects with students.
 
-Besides this project, I explore the link between visual attractiveness and camouflage patterns in humans.
+I like sharing tips on Open Science and introducing Deep Learning concepts to biologists not familiar with it yet. I also love the Slow Science philosophy that sees academia as part of an ecosystem. You can find more about this on this page: [Slow Science](https://yseulthb.github.io/slowscience/). 
 
-I also have several small projects with students and am always open for collaborations, discussions, or else. Feel free to [reach out](yseulthb@gmail.com)! 
+I am always open for collaborations, discussions, soul-searching and/or fun questions, or anything else really. Feel free to [reach out](yseulthb@gmail.com)! 
 
 You can find more information on my [personal wesbite](https://yseulthb.github.io/).
 
