@@ -4,7 +4,7 @@ I am a postdoc at the [Department of Biological Sciences](https://biology.umbc.e
 
 I work on sexual signal design in the darter fish ([*Etheosomatidae*](https://en.wikipedia.org/wiki/Etheostomatinae)) with [Tamra Mendelson](https://www.mendelsonlab.net/) in collaboration with [Julien Renoult](https://www.eevcom-montpellier.com/julien-renoult.html) in Montpellier, France. 
 We use artificial neural networks to create novel stimuli that mimic natural statistics [[NST_fish project]](https://github.com/yseulthb/NST_fish) to understand better the evolution of pattern preferences and sexual signal design. <br>
-Besides this project, I explore the link between visual attractiveness and camouflage patterns in humans [[camo_exp project]](https://github.com/yseulthb/[NST_fish](https://github.com/yseulthb/camo_exp)) and I also have several small research projects with students.
+Besides this project, I explore the link between visual attractiveness and camouflage patterns in humans [[camo_exp project]](https://github.com/yseulthb/camo_exp)) and I also have several small research projects with students.
 
 I like sharing tips on Open Science and introducing Deep Learning concepts to biologists not familiar with it yet. I also love the Slow Science philosophy that sees academia as part of an ecosystem. You can find more about this on this page: [Slow Science](https://yseulthb.github.io/slowscience/). 
 
