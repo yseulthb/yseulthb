@@ -11,7 +11,7 @@ I like sharing tips on Open Science and introducing Deep Learning concepts to bi
 
 I am always open for collaborations, discussions, soul-searching and/or fun questions, or anything else. Feel free to [reach out](yseulthb@gmail.com)! 
 
-You can find more information on my [wesbite](https://yseulthb.github.io/).
+You can find more information on my [website](https://yseulthb.github.io/).
 
 #### Find me elsewhere
 
