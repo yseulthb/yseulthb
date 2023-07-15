@@ -9,8 +9,6 @@ As some of my collaborators prefer to use Gitlab, I also have repositories on th
 
 I like sharing tips on Open Science and introducing Deep Learning concepts to biologists not familiar with it yet. I also love the Slow Science philosophy that sees academia as part of an ecosystem. You can find more about this on this page: [Slow Science](https://yseulthb.github.io/slowscience/). 
 
-I am always open for collaborations, discussions, soul-searching and/or fun questions, or anything else. Feel free to [reach out](yseulthb@gmail.com)! 
-
 You can find more information on my [website](https://yseulthb.github.io/).
 
 #### Find me elsewhere
